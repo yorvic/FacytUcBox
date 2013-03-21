@@ -1,0 +1,14 @@
+
+V-22403203
+2
+Excel.xls	1073741824	dropbox.com	publico
+video.flx	524288000	uc.com	publico
+V-9443065
+3
+Google.html	53687091200	external.com	publico
+sonyX.c	4194304	uc.com	publico
+youtube.vido	1288490189	godoy.uc	publico
+V-9263787
+2
+prueba.txt	233832448	FacytUCBox.net	publico
+pruevaPriv	1258291200	external.com	privado
