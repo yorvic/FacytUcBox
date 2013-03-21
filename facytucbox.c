@@ -1,6 +1,7 @@
 //Yorvic Godoy 
 //FacytUcBox
-//github test
+//Facultad Experimental de Ciencia y Tecnologia 
+//Universidad de Carabobo
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
