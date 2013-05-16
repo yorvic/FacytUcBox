@@ -29,3 +29,5 @@ Los datos necesario para registrarse son los siguientes:
 8)Estatus: 1-Activo, 2-Inactivo
 
 Sigue en el archivo enunciadodelproyecto.pdf
+
+--Falta actualizar el modulo de cargar vector de archivos
