@@ -71,7 +71,7 @@ void cambiarContrasenha(Tusuario usuarios[],int nUsuarios,int ID_usuario);
 void reporteBonos(Tusuario usuarios[],int nUsuarios);
 int tieneExtension(char[]);
 ///·····································································
-int main(void){;
+int main(void){
 	char opcion;
 	Tusuario usuarios[MAX_USUARIOS];
 	int nUsuarios;
